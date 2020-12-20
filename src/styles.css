@@ -1,0 +1,49 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Nav {
+  width: 100%;
+  padding: 3rem;
+  background-color: #d97706;
+  margin-bottom: 3rem;
+}
+
+.ul-inline {
+  list-style: none;
+  margin: auto;
+}
+.li-inline {
+  display: inline;
+  padding: 1rem 1rem;
+  margin-right: 2rem;
+  border-radius: 0.5rem;
+  border: 1px solid blue;
+}
+
+.li-book {
+  cursor: pointer;
+  border-radius: 0.5rem;
+  border: 1px solid blueviolet;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0.3rem;
+}
+
+footer {
+  max-width: 600px;
+  padding: 2rem;
+  position: fixed;
+  background-color: #d97706;
+  bottom: 0;
+  height: 10vh;
+  padding: 2rem 2rem 2rem 2rem;
+  font-size: large;
+  font-weight: bold;
+}
+footer div {
+  padding: 1rem;
+}
